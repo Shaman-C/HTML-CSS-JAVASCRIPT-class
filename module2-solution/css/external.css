@@ -48,7 +48,7 @@ h2 {
         position: relative;
         float: right;
         text-align: center;
-        background-color: rgb(101, 87, 226);
+        background-color: blue;
     }
 
  #title3 {
@@ -57,7 +57,7 @@ h2 {
         position: relative;
         float: right;
         text-align: center;
-        background-color: rgb(212, 54, 120);
+        background-color: red;
     }
 
       /********** Large devices only **********/
